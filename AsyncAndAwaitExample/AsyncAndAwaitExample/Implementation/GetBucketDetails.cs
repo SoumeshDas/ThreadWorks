@@ -13,17 +13,20 @@ namespace AsyncAndAwaitExample.Implementation
         {
             Thread.Sleep(30);
             Tuple<string, int> tuple = new Tuple<string, int>("Hellow", 1);
+            GetVideoCallerDetails("897656", PopulateVideoDetails);
             return tuple;
         }
 
-        public static void GetVideoCallerDetails(string callerDomainId,Action<string> PopulateVideoDetails)
+        public static async void GetVideoCallerDetails(string callerDomainId, Action<string> PopulateVideoDetails)
         {
             //Task task=new Task()
+            await Task.Run(() => { Thread.Sleep(300); });
+            PopulateVideoDetails("Vedio Details");
         }
 
         public static void PopulateVideoDetails(string vediodetails)
         {
-
+            //popualte data model
         }
     }
 }
