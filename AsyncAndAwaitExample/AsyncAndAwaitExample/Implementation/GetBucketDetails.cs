@@ -15,5 +15,15 @@ namespace AsyncAndAwaitExample.Implementation
             Tuple<string, int> tuple = new Tuple<string, int>("Hellow", 1);
             return tuple;
         }
+
+        public static void GetVideoCallerDetails(string callerDomainId,Action<string> PopulateVideoDetails)
+        {
+            //Task task=new Task()
+        }
+
+        public static void PopulateVideoDetails(string vediodetails)
+        {
+
+        }
     }
 }
