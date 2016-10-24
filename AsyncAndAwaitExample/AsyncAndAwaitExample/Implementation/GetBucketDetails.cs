@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AsyncAndAwaitExample.Implementation
 {
-    class GetBucketDetails
+    public class GetBucketDetails
     {
         public static Tuple<string,int> VideoCallerIntergotaion()
         {
@@ -21,6 +21,8 @@ namespace AsyncAndAwaitExample.Implementation
         {
             //Task task=new Task()
             await Task.Run(() => { Thread.Sleep(300); });
+
+
             PopulateVideoDetails("Vedio Details");
         }
 
