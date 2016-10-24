@@ -1,0 +1,15 @@
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\AsyncAndAwaitExample.exe.config
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\AsyncAndAwaitExample.exe
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\AsyncAndAwaitExample.pdb
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\obj\Debug\AsyncAndAwaitExample.csprojResolveAssemblyReference.cache
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\obj\Debug\AsyncAndAwaitExample.exe
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\obj\Debug\AsyncAndAwaitExample.pdb
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Codes\ApplicationDesign\AsyncAndAwaitExample\AsyncAndAwaitExample\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
