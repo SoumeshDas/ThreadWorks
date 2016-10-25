@@ -15,6 +15,8 @@ namespace AsyncAndAwaitExample
             var unity = new UnityContainer();
             unity.RegisterType<IPrice, INStockPrice>();
             var instockprice = unity.Resolve<IPrice>();
+            
+            unity.RegisterType(typeof(IBlobContainer<List<INStockPrice>>, <INStockPrice>), typeof(EntityBlobContainer<List<INStockPrice>, INStockPrice)), new InjectionConstructor());
             Console.WriteLine("Application Details using  UNITY " + instockprice.ToString());
             Console.ReadLine();
             

@@ -61,9 +61,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstraction\IBlobContainer.cs" />
     <Compile Include="Abstraction\IPrice.cs" />
+    <Compile Include="Abstraction\ISurveyAnswerStore.cs" />
+    <Compile Include="Abstraction\ITenantStore.cs" />
+    <Compile Include="Implementation\EntityBlobContainer.cs" />
     <Compile Include="Implementation\GetBucketDetails.cs" />
     <Compile Include="Implementation\INStockPrice.cs" />
+    <Compile Include="Implementation\SurveyAnswerStore.cs" />
+    <Compile Include="Implementation\TenantStore.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
